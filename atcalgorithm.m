@@ -26,7 +26,7 @@ end
 
 %%%%%%%%
 
-for merged = 2:2
+for merged = 1:4
         kappa = 0.0005;
         zeta = 1;
         delta = 0.5;
@@ -61,13 +61,6 @@ phi=zeros(M,N);
 n_var = zeros(1,N);
 tempxn = x_n;
 
-
-
-
-
-    
-
-merged
 for iter = 1:ITERATIONS
     %nl = getnmat(x_n, M, N, rmax); % the max no. of nei is also input here
     nl = find_nei(x_n',maxneighbors,rmax);
