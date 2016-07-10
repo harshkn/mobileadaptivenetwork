@@ -1,9 +1,10 @@
-mobileadaptivenetwork
+Simulation of Mobile Adaptive Network using Matlab.
 =====================
 
 Implemented as part of my seminar on advanced topics in statistical signal processing. 
 
-Mobile Adaptive network [Matlab] - Simulation https://www.youtube.com/watch?v=bIRZ8-1u2JQ
+Simulation video 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=bIRZ8-1u2JQ "Video Title") 
 
 Implementation of the paper - S. Y. Tu and A. H. Sayed,”Mobile Adaptive Networks”, IEEE journal of
 selected topics in signal processing, vol. 5, no. 4, pp. 649-664, August 2011.
