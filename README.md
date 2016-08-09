@@ -3,7 +3,7 @@ Simulation of Mobile Adaptive Network using Matlab.
 
 Implemented as part of my seminar on advanced topics in statistical signal processing. 
 
-Simulation video   
+Simulation video  (Click on the image!)
 [![Simulation with noise](http://img.youtube.com/vi/H87sLGr-3to/0.jpg)](https://www.youtube.com/watch?v=H87sLGr-3to "Simulation without Noise") 
 [![Simulation with noise](http://img.youtube.com/vi/bIRZ8-1u2JQ/0.jpg)](https://www.youtube.com/watch?v=bIRZ8-1u2JQ "Simulation with Noise") 
 
